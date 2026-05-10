@@ -15,6 +15,7 @@ A few things that surprised me:
 The real strategic question isn't pricing. It's: as Tier 2-3 cities develop specialist infrastructure, do MNCs re-enter the mass market — or stay in their narrow, high-margin niche?
 
 Built in Python + Streamlit. All data verified and sourced.
+https://indian-cns-pharma-dashboard.streamlit.app
 
 What's your read on where MNC pharma strategy in India goes next?
 
